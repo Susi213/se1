@@ -1,0 +1,10 @@
+# Mögliche Vorschläge für das Glossar #
++ Event
++ Eventteilnahme
++ Event-Anzeige
++ Eventkategorien
++ Eventkommentare
++ Eventbewertung
++ Fahrtmöglichkeit
++ Veranstalter
++ Transportunternehmer
